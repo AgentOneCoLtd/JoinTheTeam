@@ -1,6 +1,6 @@
 <img src="images/logo.png" width="210">
 
-## We Are Hiring !
+# We Are Hiring !
 
 [AGENT ONE](https://www.agentone.co.th) is a STARTUP company dancing towards AMBITIOUS goals of creating an INNOVATIVE platform for selling TRENDY products.
 
@@ -14,13 +14,17 @@ Join us and SUCCESS with us. We promise you will not regret it!
 
 If you are interested, please submit your RESUME to recruit@agentone.co.th
 
-## เข้าร่วมทีมกับเรา !
+---
+
+# เข้าร่วมทีมกับเรา !
 
 เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer และ UI & UX Designer
 
 หากคุณมีความสนใจ อยากเป็นส่วนหนึ่งของสุดยอดบริษัทในอนาคต โปรดส่ง RESUME มาที่ recruit@agentone.co.th
 
-## Position
+---
+
+# Position
 
 ### Full Stack JavaScript Developer
 
@@ -45,7 +49,9 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 * สามารถใช้  macOS _(Advantage)_
 * สามารถวาดรูป ทำ Wireframe ออกแบบ Character และเขียน Storyboard _(Advantage)_
 
-## Benefit +
+---
+
+# Benefit +
 
 * ขนม และน้ำดื่มฟรี
 * สนับสนุนการพัฒนาตนเอง เช่นส่งไปสัมมนา หรือเข้าคอร์สเทรนนิ่งที่สนใจ
@@ -54,7 +60,9 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 <img src="images/office_02.jpg">
 
-## Location
+---
+
+# Location
 
 ### Development Center  Agent One Co., Ltd.
 
@@ -66,6 +74,8 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 _Search Google Map for (13.821486, 100.625615)_
 
-## Interested ?
+---
+
+# Interested ?
 
 มีคำถาม ข้อสงสัย หรือสนใจเข้าร่วม โปรดติดต่อได้ที่อีเมล  recruit@agentone.co.th หรือที่โทรศัพท์ +66 (0) 2578 0619
