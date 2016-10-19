@@ -1,6 +1,6 @@
 <img src="images/logo.png" width="210">
 
-# We Are Hiring !
+# Who Are We ?
 
 [AGENT ONE](https://www.agentone.co.th) is a STARTUP company dancing towards AMBITIOUS goals of creating an INNOVATIVE platform for selling TRENDY products.
 
@@ -12,11 +12,9 @@ We are NOT DREAMING and NOT PLAYING WITH PASSION; We have CLEAR VISION.
 
 Join us and SUCCESS with us. We promise you will not regret it!
 
-If you are interested, please submit your RESUME to recruit@agentone.co.th
-
 ---
 
-# เข้าร่วมทีมกับเรา !
+# We Are Hiring !
 
 เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer และ UI & UX Designer
 
