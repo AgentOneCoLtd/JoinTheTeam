@@ -22,7 +22,7 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 ## Position
 
-#### Full Stack JavaScript Developer
+### Full Stack JavaScript Developer
 
 พัฒนา Responsive Web Application ทั้งในส่วน Frontend และ Backend ด้วย JavaScript, HTML, CSS
 
@@ -33,7 +33,7 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 * มีพื้นฐานในการใช้งาน Git Version Control
 * มีพื้นฐานในการใช้งาน Linux Server
 
-#### UI & UX Designer
+### UI & UX Designer
 
 ออกแบบ UI และ UX สำหรับ Website, Web Application, และ Mobile Application
 
