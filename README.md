@@ -1,7 +1,5 @@
 <img src="images/logo.png" width="210">
 
-# Open Positions @ AG1 Development Center
-
 ## We Are Hiring !
 
 [AGENT ONE](https://www.agentone.co.th) is a STARTUP company dancing towards AMBITIOUS goals of creating an INNOVATIVE platform for selling TRENDY products.
@@ -22,7 +20,7 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 หากคุณมีความสนใจ อยากเป็นส่วนหนึ่งของสุดยอดบริษัทในอนาคต โปรดส่ง RESUME มาที่ recruit@agentone.co.th
 
-## Position
+### Position
 
 #### Full Stack JavaScript Developer
 
@@ -58,11 +56,11 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 ## Location
 
-#### Development Center  Agent One Co., Ltd.
+### Development Center  Agent One Co., Ltd.
 
 1, Soi Praditmanutham 25, Praditmanutham Road
 
-#### สำนักงานพัฒนาระบบ บริษัท เอเจนท์ วัน จำกัด
+### สำนักงานพัฒนาระบบ บริษัท เอเจนท์ วัน จำกัด
 
 เลขที่ 1 ปากซอยประดิษฐ์มนูธรรม 25 (ใกล้ เซ็นทรัลเฟสติวัล อีสต์วิลล์)
 
