@@ -8,7 +8,7 @@ We are supported by EXPERIENCED and KIND PROFESSIONALS that lead us to the right
 
 We are NOT DREAMING and NOT PLAYING WITH PASSION; We have CLEAR VISION.
 
-We **"STAY FOCUSED"** – **"WORK HARD (but FLEXIBLE)"** – **"HAVE FUN"** and **"PAY REASONABLY FOR THE VALUE YOU GIVE TO US"**
+ **We "STAY FOCUSED" – "WORK HARD (but FLEXIBLE)" – "HAVE FUN" and "PAY REASONABLY FOR THE VALUE YOU GIVE TO US"**
 
 Join us and SUCCESS with us. We promise you will not regret it!
 
