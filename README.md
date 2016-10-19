@@ -26,7 +26,7 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 พัฒนา Responsive Web Application ทั้งในส่วน Frontend และ Backend ด้วย JavaScript, HTML, CSS
 
-คุณสมบัติ
+คุณสมบัติ:
 
 * จบการศึกษาระดับปริญญาตรี
 * มีประสบการณ์พัฒนา หรือเข้าใจหลักการของ Express.js และ Angular.js _(Advantage)_
@@ -37,7 +37,7 @@ If you are interested, please submit your RESUME to recruit@agentone.co.th
 
 ออกแบบ UI และ UX สำหรับ Website, Web Application, และ Mobile Application
 
-คุณสมบัติ
+คุณสมบัติ:
 
 * จบการศึกษาระดับปริญญาตรี
 * มีประสบการณ์ในการทำงานด้าน UI & UX 1 ปีขึ้นไป
