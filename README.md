@@ -72,7 +72,7 @@ Join us and SUCCESS with us. We promise you will not regret it !
 
 เลขที่ 1 ปากซอยประดิษฐ์มนูธรรม 25 (ใกล้ เซ็นทรัลเฟสติวัล อีสต์วิลล์)
 
-_Search Google Map for (13.821486, 100.625615)_
+[_Search Google Map for (13.821486, 100.625615)_](https://goo.gl/maps/kLnKKurPHb22)
 
 ---
 
