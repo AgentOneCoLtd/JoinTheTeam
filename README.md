@@ -36,6 +36,7 @@ Join us and SUCCESS with us. We promise you will not regret it !
 * มีประสบการณ์พัฒนา หรือเข้าใจหลักการของ Express.js และ Angular.js _(Advantage)_
 * มีพื้นฐานในการใช้งาน Git Version Control
 * มีพื้นฐานในการใช้งาน Linux Server
+* เงินเดือน 25K ~ 50K+ _(Negotiable)_
 
 ### UI & UX Designer
 
@@ -48,6 +49,7 @@ Join us and SUCCESS with us. We promise you will not regret it !
 * เชี่ยวชาญเครื่องมือ Adobe Creative Suite, Sketch 3, InVision หรืออื่นๆ ที่เทียบเท่า
 * สามารถใช้  macOS _(Advantage)_
 * สามารถวาดรูป ทำ Wireframe ออกแบบ Character และเขียน Storyboard _(Advantage)_
+* เงินเดือน 25K ~ 50K+ _(Negotiable)_
 
 ---
 
