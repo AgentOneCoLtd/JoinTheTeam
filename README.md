@@ -58,6 +58,7 @@ Join us and SUCCESS with us. We promise you will not regret it !
 * สวัสดิการขั้นพื้นฐาน ตามกฏหมายกำหนด
 * ขนม และน้ำดื่มฟรี
 * สนับสนุนการพัฒนาตนเอง เช่นส่งไปสัมมนา หรือเข้าคอร์สเทรนนิ่งที่สนใจ
+* อื่นๆ ตามไลฟ์ไสตล์ของคุณ _(Let's talk)_
 
 <img src="images/office_01.jpg">
 
