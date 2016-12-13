@@ -2,6 +2,8 @@
     <img src="images/recruit.jpg" width="600">
 </p>
 
+---
+
 # Who Are We ?
 
 [AGENT ONE](https://www.agentone.co.th) is a STARTUP company dancing towards AMBITIOUS goals of creating an INNOVATIVE platform for selling TRENDY products.
@@ -17,8 +19,6 @@ Join us and SUCCESS with us. We promise you will not regret it !
 ---
 
 # We Are Hiring !
-
-<img src="images/joinus_01.png">
 
 เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer, Content & Art Creator, UI & UX Designer, และ Digital Marketer
 
