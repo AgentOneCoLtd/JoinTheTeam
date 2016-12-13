@@ -1,4 +1,6 @@
-<img src="images/recruit.jpg" width="600">
+<p align="center">
+    <img src="images/recruit.jpg" width="600">
+</p>
 
 # Who Are We ?
 
