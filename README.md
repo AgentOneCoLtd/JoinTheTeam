@@ -20,7 +20,7 @@ Join us and SUCCESS with us. We promise you will not regret it !
 
 # We Are Hiring !
 
-เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer, Content & Art Creator, UI & UX Designer, และ Digital Marketer
+เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer, Content & Art Creator, UI & UX Designer, หรือ Digital Marketer
 
 หากคุณมีความสนใจ อยากเป็นส่วนหนึ่งของสุดยอดบริษัทในอนาคต โปรดส่ง RESUME มาที่ recruit@agentone.co.th
 
