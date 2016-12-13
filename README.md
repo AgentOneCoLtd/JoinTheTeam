@@ -1,4 +1,4 @@
-<img src="images/logo.png" width="210">
+<img src="images/recruit.jpg" width="700">
 
 # Who Are We ?
 
@@ -38,6 +38,18 @@ Join us and SUCCESS with us. We promise you will not regret it !
 * มีพื้นฐานในการใช้งาน Linux Server
 * เงินเดือน 25K ~ 50K _(Negotiable)_
 
+### Content & Art Creator
+
+สร้าง Content ที่มี Impact และคุณภาพ
+
+คุณสมบัติ:
+
+* จบการศึกษาระดับปริญญาตรี
+* มีประสบการณ์ในการสร้าง Content ที่มีการ Publish จริง
+* สามารถทำ Infographic ได้
+* เชี่ยวชาญเครื่องมือ Adobe Creative Suite, Keynote, หรืออื่นๆ ที่เทียบเท่า
+* เงินเดือน 25K ~ 50K _(Negotiable)_
+
 ### UI & UX Designer
 
 ออกแบบ UI และ UX สำหรับ Website, Web Application, และ Mobile Application
@@ -49,6 +61,18 @@ Join us and SUCCESS with us. We promise you will not regret it !
 * เชี่ยวชาญเครื่องมือ Adobe Creative Suite, Sketch 3, InVision หรืออื่นๆ ที่เทียบเท่า
 * สามารถใช้  macOS _(Advantage)_
 * สามารถวาดรูป ทำ Wireframe ออกแบบ Character และเขียน Storyboard _(Advantage)_
+* เงินเดือน 25K ~ 50K _(Negotiable)_
+
+### Digital Marketer
+
+Execute แผนการตลาดบนโลก Digital
+
+คุณสมบัติ:
+
+* จบการศึกษาระดับปริญญาตรี
+* มีประสบการณ์จริงในการสร้างแบรนด์ ค้นหากลุ่มลูกค้า ศึกษาพฤติกรรมผู้บริโภค และสรุปออกมาเป็นตัวเลขได้
+* สามารถทำ SEO & SEM
+* เชี่ยวชาญเครื่องมือ Analytic และ Reporting Tools
 * เงินเดือน 25K ~ 50K _(Negotiable)_
 
 ---
