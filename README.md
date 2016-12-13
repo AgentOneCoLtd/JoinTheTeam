@@ -1,4 +1,4 @@
-<img src="images/recruit.jpg" width="700">
+<img src="images/recruit.jpg" width="800">
 
 # Who Are We ?
 
@@ -18,7 +18,7 @@ Join us and SUCCESS with us. We promise you will not regret it !
 
 <img src="images/joinus_01.png">
 
-เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer และ UI & UX Designer
+เรากำลังตามหาเพื่อนร่วมทีมไฟแรง ในตำแหน่ง Full Stack JavaScript Developer, Content & Art Creator, UI & UX Designer, และ Digital Marketer
 
 หากคุณมีความสนใจ อยากเป็นส่วนหนึ่งของสุดยอดบริษัทในอนาคต โปรดส่ง RESUME มาที่ recruit@agentone.co.th
 
